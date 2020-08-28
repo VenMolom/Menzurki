@@ -6,13 +6,13 @@
 
     <groupId>io.github.venmolom</groupId>
     <artifactId>Menzurki</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Menzurki</name>
 
     <properties>
-        <java.version>14</java.version>
+        <java.version>8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
